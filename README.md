@@ -4,7 +4,7 @@
 🌱 I’m skilled in Power BI, SQL, Advanced Excel, and  Python(pandas)
 📘 I have done four virtual internships in companies like  Accenture and PwC
 💞️ I’m looking to collaborate on full-time data analyst/business analyst job roles
-📫 How to reach me Email -juhethamarlapalli@gmail.com Linkedin -(https://www.linkedin.com/in/samsonjuhetha-m-2a8126303 )
+📫 How to reach me Email -juhethamarlapalli@gmail.com Linkedin -(http://www.linkedin.com/in/samson-juhetha-m-)
 
 <!---
 Juhe-M/Juhe-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
